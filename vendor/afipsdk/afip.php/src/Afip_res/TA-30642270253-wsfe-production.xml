@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1.0">
+    <header>
+        <source>CN=wsaa, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>C=ar, O=senda s.r.l., SERIALNUMBER=CUIT 30642270253, CN=ana maria mackense</destination>
+        <uniqueId>2976600346</uniqueId>
+        <generationTime>2020-10-19T08:43:25.706-03:00</generationTime>
+        <expirationTime>2020-10-19T20:43:25.706-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhLCBPPUFGSVAsIEM9QVIsIFNFUklBTE5VTUJFUj1DVUlUIDMzNjkzNDUwMjM5IiBkc3Q9IkNOPXdzZmUsIE89QUZJUCwgQz1BUiIgdW5pcXVlX2lkPSI3MTc5ODcxMzQiIGdlbl90aW1lPSIxNjAzMTA3NzQ1IiBleHBfdGltZT0iMTYwMzE1MTAwNSIvPgogICAgPG9wZXJhdGlvbiB0eXBlPSJsb2dpbiIgdmFsdWU9ImdyYW50ZWQiPgogICAgICAgIDxsb2dpbiBlbnRpdHk9IjMzNjkzNDUwMjM5IiBzZXJ2aWNlPSJ3c2ZlIiB1aWQ9IkM9YXIsIE89c2VuZGEgcy5yLmwuLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMDY0MjI3MDI1MywgQ049YW5hIG1hcmlhIG1hY2tlbnNlIiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMzA2NDIyNzAyNTMiIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K</token>
+        <sign>Ni7xCqA8RlALRaAEDlvE3CqmIJD7nvpMk/f/jYathHAwcwvNCq8eib2yq6bvp1sgHevVynRS/M39oRjNWyKMxQU3qqPz9Ypz1tdE8fW23rS3IKFipJ/2c1bfJhaHEuYmmh9u7r63q+yrkJsoRcrwAxp0oYzPPlU6cuRtSQ31Aig=</sign>
+    </credentials>
+</loginTicketResponse>

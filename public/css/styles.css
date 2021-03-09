@@ -1,0 +1,92 @@
+.titulo{
+    color: #279d09;
+    font-family: sans-serif,bold;
+    Font-size:30px;
+}
+.sucursal{
+    color: #279d09;
+    font-family: sans-serif,bold;
+    Font-size:12px;
+    float:right;
+}
+.bg-yellow{
+
+    background-color:#f6ff00 !important
+}
+a.bg-yellow{
+    font-size:15px;
+    font-weight: bold;
+    color:#279d09 !important;
+}
+a.bg-yellow:focus,a.bg-yellow:hover,button.bg-yellow:focus,button.bg-yellow:hover
+{
+        color:#f6ff00 !important;
+        background-color:#279d09!important
+    }
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #ec1c24;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.material-input:focus, .form-control#focusedInput1:focus, .form-control#focusedInput1.focus {
+    background-image: linear-gradient(#CD3333, #CD3333), linear-gradient(#D2D2D2, #D2D2D2)!important;
+}
+
+.form-group.is-focused  label.control-label.redLabel{
+  color:#CD3333 !important;
+}
+
+.fade-enter-active, .fade-leave-active {
+    transition-duration: 1s;
+transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+    transition-duration: 0.15s;
+opacity: 0;
+}

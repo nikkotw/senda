@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1.0">
+    <header>
+        <source>CN=wsaa, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>SERIALNUMBER=CUIT 27062047173, CN=sendapv0012</destination>
+        <uniqueId>2942707753</uniqueId>
+        <generationTime>2020-08-06T16:08:35.949-03:00</generationTime>
+        <expirationTime>2020-08-07T04:08:35.949-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhLCBPPUFGSVAsIEM9QVIsIFNFUklBTE5VTUJFUj1DVUlUIDMzNjkzNDUwMjM5IiBkc3Q9IkNOPXdzZmUsIE89QUZJUCwgQz1BUiIgdW5pcXVlX2lkPSI5MTA0NDIxNjgiIGdlbl90aW1lPSIxNTk2NzQwODU1IiBleHBfdGltZT0iMTU5Njc4NDExNSIvPgogICAgPG9wZXJhdGlvbiB0eXBlPSJsb2dpbiIgdmFsdWU9ImdyYW50ZWQiPgogICAgICAgIDxsb2dpbiBlbnRpdHk9IjMzNjkzNDUwMjM5IiBzZXJ2aWNlPSJ3c2ZlIiB1aWQ9IlNFUklBTE5VTUJFUj1DVUlUIDI3MDYyMDQ3MTczLCBDTj1zZW5kYXB2MDAxMiIgYXV0aG1ldGhvZD0iY21zIiByZWdtZXRob2Q9IjIyIj4KICAgICAgICAgICAgPHJlbGF0aW9ucz4KICAgICAgICAgICAgICAgIDxyZWxhdGlvbiBrZXk9IjI3MDYyMDQ3MTczIiByZWx0eXBlPSI0Ii8+CiAgICAgICAgICAgIDwvcmVsYXRpb25zPgogICAgICAgIDwvbG9naW4+CiAgICA8L29wZXJhdGlvbj4KPC9zc28+Cg==</token>
+        <sign>lt5Ls2pWzh1RhKhLc+vOLndxt0AXt7eVwH9vCnS69iz9dVIKY8KNI4cB8aOQJ/TnkX+P919fF00ZS9ZGt7mITiy+7F5wMAbATIe5LrhxDKJ2BrelI+oCtLvtdlgemcd5BhcaF8uEtf7RgZsD5New5rnCbjNZY2uf58hb76zta04=</sign>
+    </credentials>
+</loginTicketResponse>

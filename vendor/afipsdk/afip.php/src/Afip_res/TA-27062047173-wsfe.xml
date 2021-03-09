@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1.0">
+    <header>
+        <source>CN=wsaahomo, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>SERIALNUMBER=CUIT 27062047173, CN=0012trelewsuc2</destination>
+        <uniqueId>417583039</uniqueId>
+        <generationTime>2020-08-08T08:35:40.827-03:00</generationTime>
+        <expirationTime>2020-08-08T20:35:40.827-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZHN0PSJDTj13c2ZlLCBPPUFGSVAsIEM9QVIiIHVuaXF1ZV9pZD0iMTA5NTU0ODA3MyIgZ2VuX3RpbWU9IjE1OTY4ODY0ODAiIGV4cF90aW1lPSIxNTk2OTI5NzQwIi8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndzZmUiIHVpZD0iU0VSSUFMTlVNQkVSPUNVSVQgMjcwNjIwNDcxNzMsIENOPTAwMTJ0cmVsZXdzdWMyIiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMjcwNjIwNDcxNzMiIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K</token>
+        <sign>NLpzFNUx3sxQWykDOTg1ZkIio6ERlCDDTW9i21sfHKYQS/8ZqnB7CzEa2mj2BZgre15NKSJvpZ7CpOH38zPGvxvG5MgdN89cQF1XWLi2RZZD9pbWCmIjGkut7hjKOApdnTxHnjBxVWsnGbkG9eFI16TcFIy8lUlAli0AwZfgGsY=</sign>
+    </credentials>
+</loginTicketResponse>
